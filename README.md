@@ -4,7 +4,7 @@
 
 ## Download
 - dhcpcd
-- wget raw.githubusercontent.com/xylzq/arch/master/setup.sh
+- wget raw.githubusercontent.com/sigpher/arch/master/setup.sh
 
 ## Usage
 - 执行 bash setup.sh
@@ -36,7 +36,7 @@
 
 ## Download
 - sudo pacman -S wget git
-- wget raw.githubusercontent.com/xylzq/arch/master/config.sh
+- wget raw.githubusercontent.com/sigpher/arch/master/config.sh
 
 ## explain
 - 主要配置有，添加archlinuxcn等源
